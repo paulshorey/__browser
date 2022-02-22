@@ -1,5 +1,5 @@
 {
-  "name": "@twodashes/browser",
+  "name": "twodashes-browser",
   "version": "0.4.12",
   "description": "Utility functions for the browser. Querystring parsing, HTTP requests, promises, Retina display, operating system detection, etc.",
   "private": false,
@@ -45,12 +45,12 @@
   "main": "cjs/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twodashes/browser.git"
+    "url": "git+https://github.com/paulshorey/twodashes-browser.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/twodashes/browser/issues"
+    "url": "https://github.com/paulshorey/twodashes-browser/issues"
   },
-  "homepage": "https://github.com/twodashes/browser#readme"
+  "homepage": "https://github.com/paulshorey/twodashes-browser#readme"
 }

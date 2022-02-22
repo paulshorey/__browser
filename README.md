@@ -25,7 +25,7 @@ These are exported for your choice of environment. When importing, specify **cjs
 ## ES Modules
 
 ```JavaScript
-  import { sort_by_rating_and_position } from "@twodashes/universal/esm/sort_strings"
+  import { sort_by_rating_and_position } from "twodashes-universal/esm/sort_strings"
 ```
 
 ## CommonJS
